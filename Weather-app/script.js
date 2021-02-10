@@ -1,0 +1,1 @@
+console.log('Beginnning of the Weather application')
