@@ -1,1 +1,1 @@
-console.log('Beginnning of the Weather application')
+alert('Need to learn all about Javascript promises')
